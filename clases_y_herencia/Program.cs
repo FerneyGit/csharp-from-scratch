@@ -8,8 +8,8 @@
 */
 
 var cuadr = new Cuadrado();
-cuadr.Base = 20;
-cuadr.Altura = 40;
+cuadr.Base = 30;
+cuadr.Altura = 90;
 Console.WriteLine($"EL  area es : {cuadr.Area()}");
 Console.WriteLine($"EL  perimetro es : {cuadr.Perimetro()}");
 Console.WriteLine($"EL  lado es : {cuadr.Lado}");
